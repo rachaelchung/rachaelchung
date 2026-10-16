@@ -2,7 +2,7 @@
 
 I study mechE and hci at carnegie mellon
 
-check out [my portfolio](rachaelchung.github.io)
+check out [my portfolio](https://rachaelchung.github.io)
 
 <!--
 **rachaelchung/rachaelchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
